@@ -1,0 +1,4 @@
+Flask==2.2.2
+gunicorn
+pandas==1.1.5
+xgboost==1.5.0
